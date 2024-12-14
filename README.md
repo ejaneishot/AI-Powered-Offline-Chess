@@ -8,4 +8,8 @@ Instructions :
 4. The folder should be Chess/ chessmain.py, ChessEngine.py, ChessAI.py, Images (the folder)
 5. Run the the chessmain.py file, and the program should be working
 
+How to play :
+Simply click the pieces you want to move, there should be highlighted spots on where you can move that specific piece.
+Press 'Z' in your keyboard to undo a move
+
 Enjoy playing chess !
