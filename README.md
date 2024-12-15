@@ -1,4 +1,4 @@
-# AI-Powered-Chess
+# AI-Powered-Offline-Chess
 My final project for my Algorithm and Programming course, where I made AI-powered chess solely with Python.
 
 Instructions :
